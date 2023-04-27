@@ -1,0 +1,9 @@
+.span-red {
+  color: red;
+}
+.Editor-Content {
+  width: 100%;
+  display: flex;
+  gap: 2rem;
+  margin: auto;
+}
