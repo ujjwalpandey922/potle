@@ -1,0 +1,12 @@
+.superFancyBlockquote {
+  color: #999;
+  font-family: "Hoefler Text", Georgia, serif;
+  font-style: italic;
+  text-align: center;
+}
+
+
+.DraftEditor-root [style="font-weight: bold;"] {
+  font-weight: 900; 
+  color: #000000;
+}
