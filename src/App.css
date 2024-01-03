@@ -27,7 +27,7 @@ button {
   transition: 0.35s ease-in;
 }
 button:hover {
-  background-color: rgb(3, 18, 32);
+  background-color: aliceblue;
   color: rgb(7, 16, 56);
   transition: 0.35s ease-in;
 }
